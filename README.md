@@ -1,4 +1,4 @@
-## LoftSchool example project
+## Получение списка друзей из вк, drag and drop и фильтрация
 
 ### Доступные команды
 
